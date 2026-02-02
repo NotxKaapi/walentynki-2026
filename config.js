@@ -43,7 +43,7 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW Aż tak mnie kochasz?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Nieskończenie bardzo i jeszcze więcej! 🚀💝",              // Shows when they go past 1000%
+        high: "Nieskończenie bardzo i jeszcze bardziej! 🚀💝",              // Shows when they go past 1000%
         normal: "Nieskończenie bardzo! 🥰"                           // Shows when they go past 100%
     },
 
